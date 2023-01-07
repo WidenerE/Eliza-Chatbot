@@ -1,4 +1,4 @@
-The purpose of this program is to serve as a simple chat bot that mimics a psychotherapist.
+The purpose of this program is to serve as a simple chat bot that mimics a psychotherapist, like the early natural language processing program ELIZA.
 
 The program is seperated into header, implementation, and driver files and is comprised of one main class, Eliza.
 The Eliza class contains vectors to store keywords and responses, as well as a set of noise (undesireable) words.
