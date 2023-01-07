@@ -1,0 +1,120 @@
+#
+NOMATCH
+:
+What does that suggest to you?
+I see.
+I'm not sure I understand you fully.
+Can you elaborate?
+That is quite interesting.
+Tell me more.
+And how did that make you feel?
+Maybe we should change the subject.
+#
+always
+:
+Can you think of a specific example?
+Really? All the time?
+Can you name a time when that isn't true?
+#
+because
+:
+Is that the real reason?
+Are you certain?
+Can you explain further?
+#
+sorry
+:
+Please don't apologize.
+Don't be sorry.
+It's ok!
+#
+maybe
+:
+You don't seem very certain.
+Why so wishy-washy?
+Try to be more decisive.
+#
+think
+:
+Do you really think so?
+How long have you been thinking about *?
+Do you often find yourself thinking *?
+#
+you
+your
+:
+We were discussing you, not me.
+I'm just here to listen to you.
+I want to hear more about you.
+#
+yes
+:
+Why do you think so?
+You seem quite positive.
+Interesting. Tell me more.
+Glad to hear it!
+#
+no
+:
+Why not?
+Are you sure?
+No? Anything more to say on the matter?
+Don't be so negative!
+#
+am
+i'm
+:
+I am sorry to hear you are *.
+How long have you been *?
+Do you believe it is normal to be *?
+Do you enjoy being *?
+And how does it feel to be *?
+To what degree are you *?
+#
+feel
+:
+Tell me more about such feelings.
+Do you often feel *?
+Do you enjoy feeling *?
+Why do you feel that way?
+On a scale of 1-10, how much do you feel *?
+Lets talk more about how you feel *.
+#
+family
+father
+mother
+mom
+dad
+sister
+brother
+husband
+wife
+:
+Tell me more about your family.
+How do you get along with your family?
+Is your family important to you?
+You don't talk about family often.
+How is the rest of your family?
+Growing up, how would you describe your relationship with your family?
+#
+dream
+nightmare
+:
+What does that dreram suggest to you?
+Do you dream often?
+What persons appear in your dreams?
+Are you disturbed by your dreams?
+Poe writes that all we see or seem is but a dream within a dream. What do you think about that?
+Tell me more about your dreams.
+#
+haiku
+:
+a haiku is a/short poem with 5-7-5/syllables per line
+an old silent pond/a frog jumps into the pond/splash! silence again
+here a world of dew/and within every dewdrop/a world of struggle
+#
+joke
+:
+How many programmers does it take to change a lightbulb? None! It's a hardware problem.
+There are only 10 kinds of people in this world: Those who understand binary and those who don't.
+Whats the object-oriented way to become wealthy? Inheritance.

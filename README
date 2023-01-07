@@ -1,0 +1,17 @@
+The purpose of this program is to serve as a simple chat bot that mimics a psychotherapist.
+
+The program is seperated into header, implementation, and driver files and is comprised of one main class, Eliza.
+The Eliza class contains vectors to store keywords and responses, as well as a set of noise (undesireable) words.
+The constructor reads keywords and responses from an external file to populate the vectors.
+
+The driver takes in user input, tokenizes it, and utilizes an Eliza object to search through a list of keywords,
+trying to find a match for each token, where "noise" words are discarded. If a match is found, the index of the keyword is used to pull a corresponding
+response from the response vector. The program continues prompting the user for input and displaying responses until
+the user types "bye"
+
+Multiple responses per category are available, and so a random one is chosen each time to add variety.
+
+Additionally, some responses (that contain an *) are able to splice user input after the keyword to concatenate to the
+end of the response.
+
+In addition to basic responses, Eliza can also tell jokes and display haikus when prompted.
